@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeffrey N\"af"
+title                    : "Jeffrey Näf"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "I am a Postdoc at Inria with a PhD from ETH in Switzerland."
