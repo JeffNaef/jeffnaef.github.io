@@ -3,7 +3,7 @@ title: "Heterogeneous tail generalized COMFORT modeling via Cholesky Decompositi
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2019
+date: 2019-05-05
 venue: 'Journal of Multivariate Analysis'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0047259X18301799'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
