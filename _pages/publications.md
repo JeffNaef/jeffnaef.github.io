@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+A neat overview over my research can be found [here](http://localhost:4000/files/Research_Overview.pdf)
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
