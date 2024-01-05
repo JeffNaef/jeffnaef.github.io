@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-The more comprehensive pdf CV can be found [here](http://localhost:4000/files/CV.pdf).
+The more comprehensive pdf CV can be found [here](/files/CV.pdf).
 
 {% include base_path %}
 
