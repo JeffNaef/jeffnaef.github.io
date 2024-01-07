@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-theme-midnight"
+#gem "jekyll-theme-midnight"
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
