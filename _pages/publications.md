@@ -13,6 +13,7 @@ author_profile: true
     text-decoration: none;
     color: black
   }
+  a:hover{text-decoration: none;}
 </style>
 
 A neat overview over my research can be found [here](/files/Research_Overview.pdf)

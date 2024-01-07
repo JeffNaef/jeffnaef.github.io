@@ -1,10 +1,28 @@
+
+
 {% include base_path %}
+
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+
+
+
 <div itemscope itemtype="http://schema.org/Person">
+  <style type="text/css" rel="stylesheet">
+    .medium::before {
+      background: url("/images/medium_symbol.png") no-repeat 0 0;
+      background-size: 10px 10px;
+      width: 10px;
+      height: 10px;
+      display:inline-block;
+      content: "";
+      margin-right: 4px;
+      
+    }
+  </style>
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
@@ -119,7 +137,7 @@
 {% endif %}
 
 {% if author.medium %}
-<li><a href="{{author.medium}}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Medium</a></li>
+<li><a href="{{author.medium}}" style="margin-left: 3px;"><i class="medium" aria-hidden="true"></i>  Medium</a></li>
 {% endif %}
     </ul>
   </div>
