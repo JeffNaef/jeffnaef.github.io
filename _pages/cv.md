@@ -13,10 +13,13 @@ The more comprehensive pdf CV can be found [here](/files/CV.pdf).
 
 Education
 ======
-* B.A. in Economics, University of Zurich, 2010
-* M.A. in Business Administration, University of Zurich, 2013
+* Ph.D. in Statistics, ETH Zurich, 2018
 * M.S. in Statistics, ETH Zurich, 2015
-* Ph.D in Statistics, ETH Zurich, 2018
+* M.A. in Business Administration, University of Zurich, 2013
+* B.A. in Economics, University of Zurich, 2010
+
+
+
 
 Work experience
 ======

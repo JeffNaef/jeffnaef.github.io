@@ -1,5 +1,5 @@
 ---
-title: "Lecturing the course Fundamental Probability for Finance"
+title: "Lecturer for the course Fundamental Probability for Finance"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1

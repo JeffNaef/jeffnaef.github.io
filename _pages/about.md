@@ -18,12 +18,12 @@ redirect_from:
   </style>
 
 
-I am working in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/premedical/) as a postdoc with [Julie Josse](https://juliejosse.com/). Previously I completed my PhD at ETH Zurich under the supervision of [Nicolai Meinshausen](https://people.math.ethz.ch/~nicolai/) and [Peter Bühlmann](https://people.math.ethz.ch/~buhlmann/). I had the opportunity to work on a wide variety of different problems in the past, ranging from applications in Marketing Research and Finance to pure Statistics. Currently, I am interested in Distributional Prediction, Missing Values and Robust Estimation. 
+I am a postdoc in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/premedical/) with [Julie Josse](https://juliejosse.com/). Previously, I completed my PhD at ETH Zurich under the supervision of [Nicolai Meinshausen](https://people.math.ethz.ch/~nicolai/) and [Peter Bühlmann](https://people.math.ethz.ch/~buhlmann/). During this time, I had the opportunity to work on a wide variety of different problems, ranging from applications in Marketing Research and Finance to pure Statistics (an overview of my research can be found [here](/files/Research_Overview.pdf)). Currently, I am interested in Distributional Prediction, Missing Values and Robust Estimation.
+
 
 <div class="image-container">
 <img src="/images/coffee.jpeg" alt="Self made coffee" width="200" height="300">
 </div>
-
 
 News:
 =============
@@ -33,7 +33,6 @@ News:
 
 Further Links:
 =============
-* A neat overview over my research can be found [here](/files/Research_Overview.pdf)
 * (Relatively) short articles about my research can be found on [Medium](https://medium.com/@jeffrey_85949)
 * Descriptions of our CLVTools package for modelling customer bases can be found [here](https://www.clvtools.com/)
 
