@@ -16,6 +16,14 @@
 <style>
   a{color: black;}
   a:hover{text-decoration: none;}
+  .date{margin-left: -3.5px;}
+  .place{
+    font-size: medium;    
+  }
+  .slides{
+    display: block;
+    margin-top: 10px;
+  }
 
 </style>
 
@@ -45,8 +53,9 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description" style="font-size: medium;">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o date" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt place" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
+    <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %} -->
+    {% if post.slides%} <a class="archive__item-excerpt slides" itemprop="description" href="{{post.slides}}"> Slides </a> {% endif %}
   </article>
 </div>
