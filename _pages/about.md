@@ -18,7 +18,7 @@ redirect_from:
   </style>
 
 
-I am a postdoc in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/premedical/) with [Julie Josse](https://juliejosse.com/). Previously, I completed my PhD at ETH Zurich under the supervision of [Nicolai Meinshausen](https://people.math.ethz.ch/~nicolai/) and [Peter Bühlmann](https://people.math.ethz.ch/~buhlmann/). During this time, I had the opportunity to work on a wide variety of different problems, ranging from applications in Marketing Research and Finance to pure Statistics (an overview of my research can be found [here](/files/Research_Overview.pdf)). Currently, I am interested in Distributional Prediction, Missing Values and Robust Estimation.
+I am a postdoc in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/premedical/) with [Julie Josse](https://juliejosse.com/), working on Distributional Prediction, Missing Values and Robust Estimation. Previously, I completed my PhD at ETH Zurich under the supervision of [Nicolai Meinshausen](https://people.math.ethz.ch/~nicolai/) and [Peter Bühlmann](https://people.math.ethz.ch/~buhlmann/). During this time, I had the opportunity to work on a wide variety of different problems, ranging from statistics and machine learning to applications in Marketing Research and Finance. An overview of my research can be found [here](/files/Research_Overview.pdf).
 
 
 <div class="image-container">
