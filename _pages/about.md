@@ -27,6 +27,7 @@ I am a postdoc in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/preme
 
 News:
 =============
+* Our paper "What Is a Good Imputation Under MAR Missingness" providing a comprehensive analysis of imputation under MAR, including an identifability result, recommondations and ways to evaluate imputation methods, is now available on [HAL](https://hal.science/hal-04521894). In addition, comprehensive slides and an R Example can be found [here](/files/Final.zip)
 * Our paper developing a principled variable importance measure for Distributional Random Forests (DRF) just got accepted at [AISTATS 2024](https://aistats.org/aistats2024/).
 * Our paper developing asymptotically valid uncertainty quantification for Distributional Random Forests (DRF) just got published in the [Journal of Machine Learning Research](https://jmlr.org/papers/v24/23-0185.html).
 * Our CLVTools package implementing a wide range of models for Customer Lifetime modelling, just received a major update. In particular, the flagship extended Pareto/NBD model is now coded in Rcpp! [Website](https://www.clvtools.com/) [Medium](https://medium.com/@jeffrey_85949/clvtools-version-0-10-0-8a943a856743) 
