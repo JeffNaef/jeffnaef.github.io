@@ -13,7 +13,9 @@ author_profile: true
     text-decoration: none;
     color: black
   }
-  a:hover{text-decoration: none;}
+  a{text-decoration: none}
+  a:hover{text-decoration: none}
+  u:hover{text-decoration: none}
 </style>
 
 A neat overview of my research can be found [here](/files/Research_Overview.pdf)
