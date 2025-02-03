@@ -18,7 +18,7 @@ redirect_from:
   </style>
 
 
-I am a postdoc in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/premedical/) with [Julie Josse](https://juliejosse.com/), working on Distributional Prediction, Missing Values and Robust Estimation. Previously, I completed my PhD at ETH Zurich under the supervision of [Nicolai Meinshausen](https://people.math.ethz.ch/~nicolai/) and [Peter Bühlmann](https://people.math.ethz.ch/~buhlmann/). During this time, I had the opportunity to work on a wide variety of different problems, ranging from statistics and machine learning to applications in Marketing Research and Finance. An overview of my research can be found [here](/files/Research_Overview.pdf).
+I am an Assistant Professor in Statistics and Business Analytics at the Geneva School of Economics and Management ([GSEM](https://www.unige.ch/gsem/en/)), working on Distributional Prediction, Missing Values and Robust Estimation. Previously, I was a postdoc in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/premedical/) with [Julie Josse](https://juliejosse.com/). I completed my PhD at ETH Zurich under the supervision of [Nicolai Meinshausen](https://people.math.ethz.ch/~nicolai/) and [Peter Bühlmann](https://people.math.ethz.ch/~buhlmann/). During this time, I had the opportunity to work on a wide variety of different problems, ranging from statistics and machine learning to applications in Marketing Research and Finance. An overview of my research can be found [here](/files/Research_Overview.pdf).
 
 
 <div class="image-container">
@@ -27,10 +27,10 @@ I am a postdoc in the [PreMeDICaL Inria-Inserm team](https://team.inria.fr/preme
 
 News:
 =============
+* Our paper "PKLM: A Flexible MCAR Test Using Classification" got published in [Psychometrika](https://www.cambridge.org/core/journals/psychometrika/article/pklm-a-flexible-mcar-test-using-classification/68F862DF2B90A57D4A2830E486D36C23).
+* Our paper developing the Causal Distributional Random Forest to estimate distributional treatment effects with asymptotically valid uncertainty quantification is on [arXiv](https://arxiv.org/abs/2411.08778).
 * Our paper "What Is a Good Imputation Under MAR Missingness" providing a comprehensive analysis of imputation under MAR, including an identifability result, recommondations and ways to evaluate imputation methods, is now available on [HAL](https://hal.science/hal-04521894). In addition, comprehensive slides and an R Example can be found [here](/files/Final.zip)
-* Our paper developing a principled variable importance measure for Distributional Random Forests (DRF) just got accepted at [AISTATS 2024](https://aistats.org/aistats2024/).
-* Our paper developing asymptotically valid uncertainty quantification for Distributional Random Forests (DRF) just got published in the [Journal of Machine Learning Research](https://jmlr.org/papers/v24/23-0185.html).
-* Our CLVTools package implementing a wide range of models for Customer Lifetime modelling, just received a major update. In particular, the flagship extended Pareto/NBD model is now coded in Rcpp! [Website](https://www.clvtools.com/) [Medium](https://medium.com/@jeffrey_85949/clvtools-version-0-10-0-8a943a856743) 
+
 
 
 Further Links:
