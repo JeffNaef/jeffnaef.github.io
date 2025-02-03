@@ -29,7 +29,7 @@ News:
 =============
 * Our paper "PKLM: A Flexible MCAR Test Using Classification" got published in [Psychometrika](https://www.cambridge.org/core/journals/psychometrika/article/pklm-a-flexible-mcar-test-using-classification/68F862DF2B90A57D4A2830E486D36C23).
 * Our paper developing the Causal Distributional Random Forest to estimate distributional treatment effects with asymptotically valid uncertainty quantification is on [arXiv](https://arxiv.org/abs/2411.08778).
-* Our paper "What Is a Good Imputation Under MAR Missingness" providing a comprehensive analysis of imputation under MAR, including an identifability result, recommondations and ways to evaluate imputation methods, is now available on [HAL](https://hal.science/hal-04521894). In addition, comprehensive slides and an R Example can be found [here](/files/Final.zip)
+* Our paper "What Is a Good Imputation Under MAR Missingness" providing a comprehensive analysis of imputation under MAR, including an identifability result, recommondations and ways to evaluate imputation methods, is now available on [HAL](https://hal.science/hal-04521894). In addition, comprehensive slides and an R Example can be found [here](/files/Final.zip).
 
 
 
