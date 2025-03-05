@@ -27,6 +27,7 @@ I am an Assistant Professor in Statistics and Business Analytics at the Geneva S
 
 News:
 =============
+* Our paper "Parametric MMD Estimation with Missing Values: Robustness to Missingness and Data Model Misspecification" is now available on [arXiv](https://arxiv.org/abs/2503.00448). We propose a novel M-estimation procedure based on the Maximum Mean Discrepancy (MMD), which is provably robust to both model misspecification and deviations from the assumed missingness mechanism. This a very exciting new methodology that I hope will find lots of applications!   
 * Our paper "PKLM: A Flexible MCAR Test Using Classification" got published in [Psychometrika](https://www.cambridge.org/core/journals/psychometrika/article/pklm-a-flexible-mcar-test-using-classification/68F862DF2B90A57D4A2830E486D36C23).
 * Our paper developing the Causal Distributional Random Forest to estimate distributional treatment effects with asymptotically valid uncertainty quantification is on [arXiv](https://arxiv.org/abs/2411.08778).
 * Our paper "What Is a Good Imputation Under MAR Missingness" providing a comprehensive analysis of imputation under MAR, including an identifability result, recommondations and ways to evaluate imputation methods, is now available on [HAL](https://hal.science/hal-04521894). In addition, comprehensive slides and an R Example can be found [here](/files/Final.zip).
